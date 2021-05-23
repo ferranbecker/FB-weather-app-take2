@@ -1,0 +1,92 @@
+body {
+  text-align: center;
+  color: #65c6c4;
+}
+.weather_app {
+  display: block;
+  background-color: #113f67;
+  border-radius: 20px;
+  margin-top: 20px;
+  padding: 5px;
+}
+.top_nav {
+  margin: 10px;
+}
+.date {
+  font-weight: 500;
+}
+.search_button {
+  color: #65c6c4;
+  border-color: #65c6c4;
+}
+.search_button:hover {
+  background-color: #65c6c4;
+  border-color: #65c6c4;
+}
+
+.location_button {
+  color: #65c6c4;
+  border-color: #65c6c4;
+}
+.location_button:hover {
+  background-color: #65c6c4;
+  border-color: #65c6c4;
+}
+.current_conditions h2 {
+  color: #ffffff;
+}
+
+.large_temp {
+  font-size: 40px;
+  font-weight: 500;
+}
+.weather_icon_large {
+  max-width: 40%;
+  padding: 5px;
+}
+.weather_icon {
+  max-width: 40%;
+  padding-top: 8px;
+}
+
+.temp_variables {
+  padding: 80px 0px 0px;
+}
+
+.current_weather_variables {
+  color: #ffffff;
+  font-size: 22px;
+  padding: 30px 0px 0px;
+  line-height: 40px;
+}
+
+.weather_variables {
+  font-size: 22px;
+  font-weight: 600;
+  text-align: left;
+  padding: 30px 0px 0px;
+  line-height: 40px;
+}
+.extended_forecast {
+  color: #ffffff;
+  font-size: 22px;
+  font-weight: 600;
+}
+.days_of_week {
+  font-size: 20px;
+}
+.five_day_hi_lo {
+  color: #b4f1f0;
+  font-size: 18px;
+}
+.recent_searches {
+  font-size: 20px;
+}
+.recent_searches p {
+  color: #ffffff;
+  font-weight: 600;
+}
+footer {
+  color: #ffffff;
+  font-size: 10px;
+}
